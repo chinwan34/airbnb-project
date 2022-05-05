@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MapPaneBuilder
+comment0.text=\r\n\ Class\ building\ the\ map\ pane\r\n
+comment1.params=stats
+comment1.target=MapPaneBuilder(DataStatisticCalculator)
+comment2.params=mousePos\ tile
+comment2.target=boolean\ isPointInside(double[],\ TileContour)
+comment2.text=\r\n\ Returns\ whether\ the\ position\ given\ is\ inside\ the\ map's\ contour\r\n
+comment3.params=mousePos
+comment3.target=void\ mouseClickAnimation(double[])
+comment3.text=\r\n\ Simple\ animation\ used\ when\ the\ map\ is\ clicked\r\n
+comment4.params=
+comment4.target=void\ drawTiles()
+comment4.text=\r\n\ Draw\ the\ map\ onto\ the\ screen\ \r\n
+comment5.params=event
+comment5.target=void\ handle(javafx.scene.input.MouseEvent)
+comment6.params=
+comment6.target=void\ addTicks()
+comment6.text=\r\n\ Add\ ticks\ symbolising\ the\ properties\ densities\ within\ a\ particular\ borough\r\n
+comment7.params=
+comment7.target=void\ buildHelpMapPane()
+comment7.text=\r\n\ Build\ up\ the\ help\ pane\ for\ the\ map\r\n
+comment8.params=
+comment8.target=void\ actionOnChange()
+comment8.text=\r\n\ When\ the\ value\ of\ the\ price\ range\ is\ changed,\ update\ the\ ticks\r\n
+numComments=9

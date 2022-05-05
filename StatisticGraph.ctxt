@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StatisticGraph
+comment0.text=\r\n\ The\ displays\ of\ different\ graphs\ for\ different\ statistics.\ \r\n\r\n\ @author\ Chin\ Wan\ k21016106\r\n\ @version\ 30/03/2022\r\n
+comment1.params=stats
+comment1.target=StatisticGraph(DataStatisticCalculator)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StatisticGraph\r\n
+comment2.params=
+comment2.target=void\ averagePricePerBorough()
+comment2.text=\r\n\ Create\ a\ barchart\ with\ the\ average\ price\ per\ borough.\r\n
+comment3.params=
+comment3.target=void\ mostReviewedHosts()
+comment3.text=\r\n\ Create\ a\ linechart\ with\ the\ top\ 20\ most\ reviewed\ hosts.\r\n
+comment4.params=
+comment4.target=void\ roomTypesCountPerBorough()
+comment4.text=\r\n\ Create\ a\ barchart\ with\ amount\ of\ private\ rooms\ and\ entire\ home\ or\ apartment\ per\ borough.\r\n
+comment5.params=
+comment5.target=void\ reviewsPerYear()
+comment5.text=\r\n\ Create\ a\ line\ chart\ for\ plotting\ number\ of\ reviews\ per\ year.\r\n\ @throws\ ParseException\ If\ the\ string\ cannot\ be\ parsed\ in\ date\ format\r\n
+comment6.params=
+comment6.target=void\ emptyWindow()
+comment6.text=\r\n\ Create\ a\ new\ window\ displaying\ that\ there\ is\ no\ graph\ for\ the\ statistics.\r\n
+numComments=7

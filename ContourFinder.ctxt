@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ContourFinder
+comment0.text=\r\n\ This\ class\ is\ used\ to\ find\ all\ minimum\ contours\ given\ an\ image\ file's\ path.\r\n\ It\ returns\ a\ list\ of\ all\ the\ contours\ and\ their\ coordinates.\r\n\ \r\n
+comment1.params=imagePath
+comment1.target=ContourFinder(java.lang.String)
+comment1.text=\r\n\ Initialises\ the\ ContourFinder\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getTileContours()
+comment2.text=\r\n\ Returns\ all\ the\ tile\ contours\r\n
+comment3.params=
+comment3.target=void\ findTileContours()
+comment3.text=\r\n\ Finds\ all\ the\ tile\ contours\r\n
+comment4.params=id\ startingPoint\ ignoresColored
+comment4.target=TileContour\ findContour(int,\ int[],\ boolean)
+comment4.text=\r\n\ Finds\ a\ contour\ inside\ a\ map.\r\n\ It\ fills\ up\ an\ area\ with\ a\ "color"\ (\ changes\ the\ white\ id\ (-1)\ to\ the\ tile's\ (\ id\ )\ )\ until\ there\ are\ no\ more\ white\ pixels.\r\n\ Along\ the\ filling\ up\ of\ the\ area,\ it\ adds\ all\ the\ contour\ coordinates\ it\ can\ find.\r\n\ \r\n\ The\ parameter\ ignoresColored,\ states\ whether\ the\ program\ treats\ certain\ pixel\ that\ are\ already\ "colored"\ as\ white\ or\ not.\r\n\ \r\n
+comment5.params=
+comment5.target=double\ getAspectRatio()
+comment5.text=\r\n\ Returns\ the\ aspect\ ration\ of\ the\ original\ image\r\n
+comment6.params=pos
+comment6.target=int[]\ scalePos(double[])
+comment6.text=\r\n\ Scale\ up\ the\ position\ given\r\n
+comment7.params=
+comment7.target=void\ findColoredPixels()
+comment7.text=\r\n\ \ Load\ in\ a\ matrix\ of\ pixels,\ and\ store\ them\ in\ an\ array\ such\ that\ every\ white\ pixel\ corresponds\ to\ -1,\ and\ everything\ else\ corresponds\ to\ 0.\r\n
+numComments=8

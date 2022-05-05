@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PaneBuilder
+comment0.text=\r\n\ Abstract\ class\ used\ as\ template\ to\ build\ other\ panes\r\n
+comment1.params=
+comment1.target=javafx.scene.layout.Pane\ getPane()
+comment1.text=\r\n\ Returns\ the\ main\ pane\r\n
+comment2.params=
+comment2.target=void\ showHelp()
+comment2.text=\r\n\ Used\ to\ toggle\ the\ is\ helping\ field\r\n
+comment3.params=
+comment3.target=void\ actionOnChange()
+comment3.text=\r\n\ Action\ performed\ when\ the\ price\ range\ is\ changes\r\n
+comment4.params=newPriceChosen
+comment4.target=void\ setFromPriceChosen(java.lang.Integer)
+comment4.text=\r\n\ Set\ the\ from\ price\ chosen\ field\r\n
+comment5.params=newPriceChosen
+comment5.target=void\ setToPriceChosen(java.lang.Integer)
+comment5.text=\r\n\ Sets\ the\ to\ price\ chosen\ field\r\n
+numComments=6

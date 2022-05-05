@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StatisticPane
+comment0.text=\r\n\ Represent\ one\ statistic\ pane\ that\ displays\ the\ statistics\ within\ a\ price\ range.\r\n\r\n\ @author\ Chin\ Wan\ k21016106\r\n\ @version\ 30/02/2022\r\n
+comment1.params=index\ allStats\ allStatsTitles\ statsIndices\ stats
+comment1.target=StatisticPane(int,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ DataStatisticCalculator)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ statisticPane\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.BorderPane\ getBorderPane()
+comment2.text=\r\n\ Return\ the\ border\ pane\ of\ this\ object.\r\n\ @return\ The\ border\ pane\r\n
+comment3.params=
+comment3.target=void\ setButtons()
+comment3.text=\r\n\ set\ the\ buttons\ for\ the\ pane.\r\n
+comment4.params=event
+comment4.target=void\ clickRight(javafx.event.ActionEvent)
+comment4.text=\r\n\ The\ action\ after\ the\ right\ button\ is\ clicked,\ to\ switch\ statistics\ displayed.\r\n\ @param\ event\ An\ action\ that\ is\ implemented\ on\ a\ GUI\ object.\r\n
+comment5.params=event
+comment5.target=void\ clickLeft(javafx.event.ActionEvent)
+comment5.text=\r\n\ The\ action\ after\ the\ left\ button\ is\ clicked,\ to\ switch\ statistics\ displayed.\r\n\ @param\ event\ An\ action\ that\ is\ implemented\ on\ a\ GUI\ object.\r\n
+comment6.params=index
+comment6.target=boolean\ isIndexValid(int)
+comment6.text=\r\n\ Check\ if\ the\ index\ is\ used\ already.\r\n\ @param\ index\ The\ index\ for\ getting\ the\ statistics.\r\n\ @return\ boolean\ on\ whether\ the\ index\ is\ used.\r\n
+comment7.params=event
+comment7.target=void\ checkGraph(javafx.event.ActionEvent)
+comment7.text=\r\n\ Check\ which\ graph\ is\ displayed.\r\n\ @param\ event\ An\ action\ that\ is\ implemented\ on\ a\ GUI\ object.\r\n
+numComments=8

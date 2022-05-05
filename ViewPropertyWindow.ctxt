@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ViewPropertyWindow
+comment0.text=\r\n\ This\ class\ shows\ a\ single\ property\ and\ its\ information\ on\ a\ new\ window\r\n
+comment1.params=property
+comment1.target=ViewPropertyWindow(AirbnbListing)
+comment2.params=property
+comment2.target=void\ setProperty(AirbnbListing)
+comment2.text=\r\n\ Sets\ the\ property\ to\ the\ one\ given\r\n
+comment3.params=
+comment3.target=void\ start()
+numComments=4

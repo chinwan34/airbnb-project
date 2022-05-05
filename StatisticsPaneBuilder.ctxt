@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=StatisticsPaneBuilder
+comment0.text=\r\n\ Create\ the\ pane\ to\ hold\ the\ statistic\ pane,\ and\ the\ content\r\n\ of\ each\ statistic\ pane.\r\n\ \r\n\ @author\ Chin\ Wan\ k21016106\r\n\ @version\ 30/03/2022\r\n
+comment1.params=data\ stations
+comment1.target=StatisticsPaneBuilder(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ getPane()
+comment2.text=\r\n\ Return\ the\ pane\ that\ holds\ all\ statistic\ panes.\r\n\ @return\ Pane\ that\ holds\ all\ statistic\ panes.\r\n
+comment3.params=
+comment3.target=void\ createStatisticBoxes()
+comment3.text=\r\n\ Create\ the\ statistic\ panes\ and\ store\ into\ the\ grid\ pane.\r\n
+comment4.params=
+comment4.target=void\ actionOnChange()
+comment4.text=\r\n\ To\ call\ the\ method\ to\ create\ statistic\ panes.\r\n
+comment5.params=
+comment5.target=void\ addStats()
+comment5.text=\r\n\ Create\ labels\ for\ the\ statistics.\r\n
+comment6.params=
+comment6.target=void\ addStatsTitle()
+comment6.text=\r\n\ Create\ the\ labels\ for\ the\ statistics'\ titles.\r\n
+comment7.params=
+comment7.target=void\ buildHelpStatisticPane()
+numComments=8

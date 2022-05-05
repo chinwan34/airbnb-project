@@ -1,0 +1,54 @@
+.centerNode {
+    -fx-padding : 2px;
+    -fx-border-insets : 2px;
+    -fx-background-insets : 2px;
+}
+
+.selectorButton {
+    -fx-backgroud-color : #FFFFFF;
+    -fx-pref-width : 75px;
+    -fx-pref-height : 15px;
+}
+
+.propertyBoxText {
+    -fx-font-size: 15pt;
+    -fx-alignment: center;
+}
+
+.propertyBox {
+    -fx-padding : 15px;
+    -fx-border-insets : 5px;
+    -fx-background-insets : 5px;
+    -fx-border-width: 3px ; 
+    -fx-border-radius: 10px;
+    -fx-border-color: black ;
+    -fx-alignment: center;
+}
+.statisticButton {
+    -fx-background-color : white;
+    -fx-pref-width : 40px;
+    -fx-pref-height : 200px;
+}
+
+.graphButton {
+    -fx-background-color : #f57e7e;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 30px;
+}
+
+.statisticPane {
+    -fx-border-color: black;
+    -fx-background-color: #efb5a3;
+}
+
+.gridPane {
+    -fx-background-color: #315f72;
+}
+
+.statisticTitle {
+    -fx-font-size: 35px;
+}
+
+.statisticLabel {
+    -fx-font-size: 35px;
+}

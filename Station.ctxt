@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Station
+comment0.text=\r\n\ Represents\ one\ listing\ of\ a\ property\ for\ rental\ on\ Airbnb.\r\n\ This\ is\ essentially\ one\ row\ in\ the\ data\ table.\ Each\ column\r\n\ has\ a\ corresponding\ field.\r\n
+comment1.params=name\ network\ zone\ longitude\ latitude
+comment1.target=Station(java.lang.String,\ java.lang.String,\ int,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getNetwork()
+comment4.params=
+comment4.target=int\ getZone()
+comment5.params=
+comment5.target=double\ getLatitude()
+comment6.params=
+comment6.target=double\ getLongitude()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

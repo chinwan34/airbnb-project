@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HelpScreen
+comment0.text=\r\n\ This\ class,\ is\ used\ as\ various\ Help\ screens\ to\ explain\ how\ everything\ work\ on\ the\ project\r\n\r\n\ @author\ (Ata\ Senpolat\ @k20061940)\r\n
+comment1.params=type
+comment1.target=HelpScreen(java.lang.String)
+comment2.params=
+comment2.target=javafx.scene.layout.Pane\ getPane()
+comment2.text=\r\n\ Returns\ the\ help\ pane\r\n
+comment3.params=evt
+comment3.target=void\ previousButtonPressed(javafx.event.ActionEvent)
+comment3.text=\r\n\ When\ the\ previous\ button\ is\ pressed,\ go\ to\ previous\ screenshot\r\n
+comment4.params=evt
+comment4.target=void\ nextButtonPressed(javafx.event.ActionEvent)
+comment4.text=\r\n\ When\ the\ next\ button\ is\ pressed,\ go\ to\ next\ screenshot\r\n
+comment5.params=shift
+comment5.target=void\ changeScreenshots(int)
+comment5.text=\r\n\ Change\ screenshots\ depending\ on\ the\ shift\ (e.g\ shift\ \=\ 1\ go\ to\ the\ next\ screenshot)\r\n
+comment6.params=
+comment6.target=void\ setSkipButtons()
+comment6.text=\r\n\ Sets\ up\ the\ buttons\ to\ go\ to\ the\ next\ screenshot\r\n
+numComments=7

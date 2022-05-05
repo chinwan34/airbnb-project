@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PropertyInformationViewer
+comment0.text=\r\n\ Show\ the\ information\ of\ a\ property\ onto\ a\ VBox\ panel\r\n
+comment1.params=property\ isShowingAllInfo\ propertyViewer
+comment1.target=PropertyInformationViewer(AirbnbListing,\ boolean,\ ViewPropertyWindow)
+comment2.params=
+comment2.target=javafx.scene.layout.VBox\ getPropertyBox()
+comment2.text=\r\n\ Returns\ the\ VBox\ pane\r\n
+comment3.params=
+comment3.target=void\ setupVBox()
+comment3.text=\r\n\ Creates\ the\ VBox\ pane\r\n
+comment4.params=event
+comment4.target=void\ handle(javafx.scene.input.MouseEvent)
+numComments=5

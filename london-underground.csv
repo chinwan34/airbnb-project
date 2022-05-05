@@ -1,0 +1,480 @@
+NAME,NETWORK,Zone,longitude,latitude
+Temple,London Underground,1,-0.112643564,51.5104742
+Blackfriars,London Underground,1,-0.102020251,51.51111447
+Mansion House,London Underground,1,-0.092495313,51.51130597
+Cannon Street,London Underground,1,-0.088801035,51.51096254
+Monument,London Underground,1,-0.084502291,51.51020898
+Tower Hill,London Underground,1,-0.074913869,51.50943419
+Aldgate,London Underground,1,-0.0742363,51.51398203
+Liverpool Street,London Underground,1,-0.081601363,51.5168424
+Moorgate,London Underground,1,-0.087700241,51.5178533
+Barbican,London Underground,1,-0.097189673,51.51969921
+Farringdon,London Underground,1,-0.103582415,51.51996102
+King's Cross St. Pancras,London Underground,1,-0.123168404,51.52927728
+Euston Square,London Underground,1,-0.134270582,51.52512499
+Great Portland Street,London Underground,1,-0.142685711,51.52333822
+Baker Street,London Underground,1,-0.155454387,51.52249387
+Edgware Road (Circle Line),London Underground,1,-0.166170742,51.51936413
+Paddington,London Underground,1,-0.173789485,51.51499491
+Bayswater,London Underground,1,-0.186322701,51.51181507
+High Street Kensington,London Underground,1,-0.190607248,51.49993492
+Gloucester Road,London Underground,1,-0.182135121,51.49397763
+South Kensington,London Underground,1,-0.171564291,51.49357736
+Victoria,London Underground,1,-0.141485017,51.49588954
+Pimlico,London Underground,1,-0.132103672,51.48856954
+Warren Street,London Underground,1,-0.136735811,51.52401887
+Queensway,London Underground,1,-0.185538472,51.50974305
+Hyde Park Corner,London Underground,1,-0.152546395,51.50224103
+Knightsbridge,London Underground,1,-0.159863737,51.50073061
+Leicester Square,London Underground,1,-0.126725567,51.51089472
+Covent Garden,London Underground,1,-0.122759938,51.51263471
+Russell Square,London Underground,1,-0.122662273,51.52255053
+Earl's Court,London Underground,1,-0.19157701,51.4914734
+Notting Hill Gate,London Underground,1,-0.194491212,51.5086469
+Lancaster Gate,London Underground,1,-0.173843886,51.51117805
+Marble Arch,London Underground,1,-0.155755638,51.51309055
+Bond Street,London Underground,1,-0.148076884,51.51387033
+Bank,London Underground,1,-0.08729695,51.51291511
+Oxford Circus,London Underground,1,-0.140025246,51.51481046
+Holborn,London Underground,1,-0.1188087,51.51706879
+Chancery Lane,London Underground,1,-0.109960547,51.5177395
+St. Paul's,London Underground,1,-0.095907533,51.51444286
+Paddington,London Underground,1,-0.174388339,51.51605291
+Embankment,London Underground,1,-0.120562428,51.50694137
+Westminster,London Underground,1,-0.124052209,51.50045311
+Euston,London Underground,1,-0.132992071,51.52757668
+Waterloo,London Underground,1,-0.112818812,51.50291418
+Green Park,London Underground,1,-0.140937126,51.50635747
+Paddington (H&C Line),London Underground,1,-0.17719615,51.51800497
+Piccadilly Circus,London Underground,1,-0.132081484,51.50955061
+Charing Cross,London Underground,1,-0.125777173,51.50686754
+Lambeth North,London Underground,1,-0.110624882,51.49833058
+Edgware Road (Bakerloo),London Underground,1,-0.168645951,51.51996099
+Marylebone,London Underground,1,-0.162637346,51.52165079
+Regent's Park,London Underground,1,-0.144708117,51.52277011
+Sloane Square,London Underground,1,-0.15473274,51.49182524
+St. James's Park,London Underground,1,-0.132021543,51.49905006
+Goodge Street,London Underground,1,-0.132736642,51.52009307
+Tottenham Court Road,London Underground,1,-0.128897348,51.51594793
+Borough,London Underground,1,-0.091702818,51.50067969
+Old Street,London Underground,1,-0.086025441,51.52457628
+Angel,London Underground,1,-0.103116359,51.5309796
+Shoreditch High Street,London Overground,1,-0.074700292,51.52285471
+Aldgate East,London Underground,1,-0.069540402,51.51491653
+Southwark,London Underground,1,-0.103788452,51.50377646
+London Bridge,London Underground,1,-0.088037808,51.50455372
+Liverpool Street,London Overground,1,-0.080013644,51.51752768
+Liverpool Street,TfL Rail,1,-0.081601363,51.5168424
+TOWER GATEWAY - DLR,DLR,1,-0.073061976,51.51011047
+BANK - DLR,DLR,1,-0.087316571,51.51286207
+Euston,London Overground,1,-0.131403702,51.52774704
+East Putney,London Underground,2,-0.209468663,51.45863492
+Putney Bridge,London Underground,2,-0.207131382,51.46774182
+Parsons Green,London Underground,2,-0.200166803,51.47447238
+White City,London Underground,2,-0.222866489,51.51170695
+Shepherd's Bush,London Underground,2,-0.217238899,51.50384346
+Holland Park,London Underground,2,-0.204062863,51.50664438
+Brixton,London Underground,2,-0.113288835,51.46215131
+Vauxhall,London Underground,2,-0.122646146,51.48518446
+Highbury & Islington,London Underground,2,-0.102125867,51.54691824
+Caledonian Road,London Underground,2,-0.116864262,51.54801774
+Holloway Road,London Underground,2,-0.111653531,51.55225038
+Arsenal,London Underground,2,-0.105674399,51.55811105
+Manor House,London Underground,2,-0.094452148,51.57024769
+Shepherd's Bush Market,London Underground,2,-0.224700725,51.50558155
+Goldhawk Road,London Underground,2,-0.225049873,51.50148234
+Latimer Road,London Underground,2,-0.216257476,51.51295039
+Ladbroke Grove,London Underground,2,-0.209304449,51.51681261
+Royal Oak,London Underground,2,-0.186186162,51.51854003
+Westbourne Park,London Underground,2,-0.199554267,51.52041239
+Queen's Park,London Underground,2,-0.204142926,51.53347212
+Mile End,London Underground,2,-0.032150165,51.52472507
+Bethnal Green,London Underground,2,-0.053074702,51.52672839
+Rotherhithe,London Overground,2,-0.050510094,51.50053752
+Kensington (Olympia),London Underground,2,-0.208533266,51.49722528
+Finsbury Park,London Underground,2,-0.105068129,51.56406609
+Stockwell,London Underground,2,-0.121436641,51.47131386
+Hammersmith (H&C Line),London Underground,2,-0.223334507,51.49327356
+Kensal Green,London Underground,2,-0.222882378,51.5300656
+Elephant & Castle,London Underground,2,-0.099577259,51.4953253
+Warwick Avenue,London Underground,2,-0.182005998,51.52269118
+Maida Vale,London Underground,2,-0.184228557,51.52922219
+Kilburn Park,London Underground,2,-0.192420271,51.53444139
+Ravenscourt Park,London Underground,2,-0.234181724,51.49365752
+Hammersmith (Dist&Picc Line),London Underground,2,-0.22144689,51.49148885
+Kilburn,London Underground,2,-0.203115567,51.54644842
+West Hampstead,London Underground,2,-0.188568627,51.54629707
+Swiss Cottage,London Underground,2,-0.173237239,51.54319998
+Finchley Road,London Underground,2,-0.179489511,51.54672589
+Archway,London Underground,2,-0.13344404,51.56403452
+Clapham South,London Underground,2,-0.145610374,51.45272059
+Clapham Common,London Underground,2,-0.135588991,51.46169503
+Clapham North,London Underground,2,-0.127754372,51.4652144
+Belsize Park,London Underground,2,-0.163016956,51.54982085
+Hampstead,London Underground,2,-0.17692039,51.55608598
+Mornington Crescent,London Underground,2,-0.137143461,51.53419787
+Chalk Farm,London Underground,2,-0.151037017,51.54335257
+Camden Town,London Underground,2,-0.141016888,51.53872412
+Kentish Town,London Underground,2,-0.13914119,51.54978865
+Tufnell Park,London Underground,2,-0.136858377,51.5563398
+Oval,London Underground,2,-0.110799082,51.48132384
+Kennington,London Underground,2,-0.104357247,51.48782707
+East Acton,London Underground,2,-0.245569272,51.51609001
+Wood Lane,London Underground,2,-0.221994162,51.50963208
+Canada Water,London Overground,2,-0.048105945,51.49744864
+Shadwell,London Overground,2,-0.055365921,51.51070004
+Whitechapel,London Overground,2,-0.05838503,51.51901529
+Hoxton,London Overground,2,-0.074056385,51.53093841
+Haggerston,London Overground,2,-0.073966769,51.53852752
+Dalston Junction,London Overground,2,-0.07344152,51.5448144
+New Cross,London Overground,2,-0.030648703,51.47590464
+Brockley,London Overground,2,-0.035763775,51.46411871
+West Kensington,London Underground,2,-0.203860054,51.49027946
+Barons Court,London Underground,2,-0.213088174,51.48978737
+Fulham Broadway,London Underground,2,-0.193168686,51.48025536
+West Brompton,London Underground,2,-0.193973832,51.48676791
+Stamford Brook,London Underground,2,-0.244408726,51.49440814
+Stepney Green,London Underground,2,-0.044974603,51.52135166
+Whitechapel,London Underground,2,-0.059154123,51.51902202
+Bow Road,London Underground,2,-0.02358427,51.52639287
+St. John's Wood,London Underground,2,-0.172545248,51.53469852
+Canada Water,London Underground,2,-0.048372238,51.49740822
+Bermondsey,London Underground,2,-0.062745893,51.49718984
+Canary Wharf,London Underground,2,-0.016134819,51.50291749
+Bethnal Green,London Overground,2,-0.057862441,51.52350343
+Cambridge Heath,London Overground,2,-0.055565622,51.53173049
+Clapham High Street,London Overground,2,-0.131145084,51.46503062
+Denmark Hill,London Overground,2,-0.088015106,51.46758176
+Hackney Downs,London Overground,2,-0.059252378,51.54844772
+London Fields,London Overground,2,-0.056359095,51.54052142
+Peckham Rye,London Overground,2,-0.067330906,51.46977879
+Queens Road Peckham,London Overground,2,-0.055827609,51.47310519
+Rectory Road,London Overground,2,-0.066636749,51.55800392
+Wandsworth Road,London Overground,2,-0.136926893,51.46943062
+Stoke Newington,London Overground,2,-0.070536111,51.56417453
+Brondesbury,London Overground,2,-0.200631035,51.5448108
+Brondesbury Park,London Overground,2,-0.208495753,51.54030862
+Caledonian Road & Barnsbury,London Overground,2,-0.114106929,51.54261531
+Camden Road,London Overground,2,-0.137154414,51.54122083
+Canonbury,London Overground,2,-0.090522836,51.54817851
+Dalston Kingsland,London Overground,2,-0.074035153,51.54783695
+Finchley Road & Frognal,London Overground,2,-0.181637018,51.54982406
+Gospel Oak,London Overground,2,-0.149494861,51.55486145
+Hackney Central,London Overground,2,-0.055208719,51.54652805
+Hackney Wick,London Overground,2,-0.021765777,51.54302792
+Hampstead Heath,London Overground,2,-0.164099101,51.55475816
+Homerton,London Overground,2,-0.040627028,51.54649227
+Kensal Green,London Overground,2,-0.223116997,51.53001765
+Kensal Rise,London Overground,2,-0.218097094,51.53413249
+Kentish Town West,London Overground,2,-0.145240267,51.54596266
+Kilburn High Road,London Overground,2,-0.190635722,51.53680577
+New Cross Gate,London Overground,2,-0.038716887,51.47449297
+ALL SAINTS - DLR,DLR,2,-0.011456278,51.51051157
+BLACKWALL - DLR,DLR,2,-0.005550544,51.50745237
+BOW CHURCH - DLR,DLR,2,-0.01918061,51.52715522
+CANARY WHARF - DLR,DLR,2,-0.019337121,51.50461022
+CROSSHARBOUR - DLR,DLR,2,-0.012863868,51.49538997
+CUTTY SARK - DLR,DLR,2,-0.009463903,51.48115778
+DEPTFORD BRIDGE - DLR,DLR,2,-0.020845808,51.47378671
+DEVONS ROAD - DLR,DLR,2,-0.015859691,51.52195436
+ELVERSON ROAD - DLR,DLR,2,-0.014766759,51.46817948
+HERON QUAYS - DLR,DLR,2,-0.019832666,51.50281981
+ISLAND GARDENS - DLR,DLR,2,-0.008883221,51.48754261
+LANGDON PARK - DLR,DLR,2,-0.012505001,51.51456754
+LEWISHAM - DLR,DLR,2,-0.012465383,51.46513641
+LIMEHOUSE - DLR,DLR,2,-0.038095069,51.51179704
+MUDCHUTE - DLR,DLR,2,-0.013413578,51.49037168
+POPLAR - DLR,DLR,2,-0.015607274,51.50720026
+SHADWELL - DLR,DLR,2,-0.05512963,51.51118155
+SOUTH QUAY - DLR,DLR,2,-0.017414424,51.50009877
+WEST INDIA QUAY - DLR,DLR,2,-0.018586106,51.50697183
+WESTFERRY - DLR,DLR,2,-0.025301528,51.50899182
+South Hampstead,London Overground,2,-0.177570816,51.54111829
+Surrey Quays,London Overground,2,-0.046055836,51.49282777
+Upper Holloway,London Overground,2,-0.127532858,51.56303879
+Wapping,London Overground,2,-0.054345515,51.50386599
+West Hampstead,London Overground,2,-0.188759559,51.54628297
+Shepherds Bush,London Overground,2,-0.217219888,51.50417089
+Kensington Olympia,London Overground,2,-0.208397635,51.49726439
+Westompton,London Overground,2,-0.193747112,51.48661615
+Clapham Junction,London Overground,2,-0.16856542,51.4629141
+Imperial Wharf,London Overground,2,-0.181347614,51.47457995
+Queens Park,London Overground,2,-0.203104045,51.53366092
+Highbury & Islington,London Overground,2,-0.10209637,51.54564126
+Chiswick Park,London Underground,3,-0.266981606,51.49415785
+Wimbledon Park,London Underground,3,-0.19749098,51.43353749
+Southfields,London Underground,3,-0.205058529,51.4445635
+Seven Sisters,London Underground,3,-0.070894139,51.58289546
+Blackhorse Road,London Underground,3,-0.040174342,51.58633801
+Tottenham Hale,London Underground,3,-0.058547162,51.58754655
+Brent Cross,London Underground,3,-0.212185251,51.57616797
+Golders Green,London Underground,3,-0.192420671,51.57178437
+South Ealing,London Underground,3,-0.305919519,51.50039136
+North Ealing,London Underground,3,-0.287236576,51.51697561
+Park Royal,London Underground,3,-0.282378071,51.52597425
+Hanger Lane,London Underground,3,-0.291095909,51.52968038
+North Acton,London Underground,3,-0.258167978,51.52310534
+Leyton,London Underground,3,-0.00386474,51.55609689
+Bromley-by-Bow,London Underground,3,-0.009841042,51.52424987
+Plaistow,London Underground,3,0.018612643,51.53072137
+Upton Park,London Underground,3,0.036836325,51.53487026
+Turnpike Lane,London Underground,3,-0.101359413,51.58975112
+Wood Green,London Underground,3,-0.108246806,51.5969712
+Bounds Green,London Underground,3,-0.122731021,51.60656487
+West Ham,London Underground,3,0.00590508,51.52776913
+Walthamstow Central,London Underground,3,-0.019895332,51.58261626
+Ealing Broadway,London Underground,3,-0.299418497,51.51449777
+Acton Town,London Underground,3,-0.278432824,51.50213702
+Ealing Common,London Underground,3,-0.286555479,51.50903565
+South Wimbledon,London Underground,3,-0.191711278,51.41446924
+Northfields,London Underground,3,-0.311409865,51.49914634
+Harlesden,London Underground,3,-0.256997378,51.53619355
+Kew Gardens,London Underground,3,-0.283453589,51.47648632
+Gunnersbury,London Underground,3,-0.273547129,51.49123204
+North Greenwich,London Underground,3,0.005908784,51.50002099
+Canning Town,London Underground,3,0.009568884,51.51360991
+Willesden Green,London Underground,3,-0.221119357,51.54886838
+Colliers Wood,London Underground,3,-0.176460893,51.41763979
+Tooting Broadway,London Underground,3,-0.166791248,51.42715702
+Tooting Bec,London Underground,3,-0.15763366,51.4353811
+Balham,London Underground,3,-0.151090206,51.44310998
+Hendon Central,London Underground,3,-0.224748399,51.58267136
+Wimbledon,London Underground,3,-0.204921053,51.42091587
+Honor Oak Park,London Overground,3,-0.044096334,51.44940041
+Forest Hill,London Overground,3,-0.051690278,51.43872534
+Sydenham,London Overground,3,-0.052652564,51.42659082
+Turnham Green,London Underground,3,-0.252958803,51.494448
+Neasden,London Underground,3,-0.24957656,51.5539234
+Dollis Hill,London Underground,3,-0.237445148,51.55145847
+Stonebridge Park,London Underground,3,-0.27487576,51.54368887
+Willesden Junction,London Underground,3,-0.242978972,51.5318981
+East Finchley,London Underground,3,-0.163438627,51.58665344
+Highgate,London Underground,3,-0.144860652,51.577342
+West Acton,London Underground,3,-0.279364414,51.51747345
+Stratford,London Underground,3,-0.002182514,51.54094802
+Bruce Grove,London Overground,3,-0.068182034,51.59336509
+Seven Sisters,London Overground,3,-0.073533739,51.58359611
+Walthamstow St James Street,London Overground,3,-0.031370968,51.58045909
+White Hart Lane,London Overground,3,-0.069256013,51.60447174
+Stamford Hill,London Overground,3,-0.074878256,51.57418005
+Acton Central,London Overground,3,-0.261566477,51.50821824
+Blackhorse Road,London Overground,3,-0.039657577,51.58647957
+Crouch Hill,London Overground,3,-0.115463356,51.57086778
+Harlesden,London Overground,3,-0.255902699,51.53575292
+Harringay Green Lanes,London Overground,3,-0.096693484,51.57659043
+Kew Gardens,London Overground,3,-0.283465911,51.47656919
+Leyton Midland Road,London Overground,3,-0.00583941,51.56914561
+Leytonstone High Road,London Overground,3,0.009121703,51.56347619
+Stratford,TfL Rail,3,-0.002182514,51.54094802
+Maryland,TfL Rail,3,0.007539167,51.54554249
+Forest Gate,TfL Rail,3,0.02615387,51.54895648
+Wimbledon (Tramlink),Tramlink,3,-0.204395752,51.42048966
+Dundonald Road,Tramlink,3,-0.206116509,51.41708633
+Merton Park,Tramlink,3,-0.199772348,51.41320626
+BECKTON - DLR,DLR,3,0.063442568,51.51390419
+BECKTON PARK - DLR,DLR,3,0.056557435,51.50826026
+CUSTOM HOUSE - DLR,DLR,3,0.028149357,51.50922299
+CYPRUS - DLR,DLR,3,0.065567428,51.50798477
+GALLIONS REACH - DLR,DLR,3,0.073386821,51.50846722
+KING GEORGE V - DLR,DLR,3,0.063920007,51.50151128
+LONDON CITY AIRPORT - DLR,DLR,3,0.04977043,51.50315378
+PONTOON DOCK - DLR,DLR,3,0.03485088,51.50176796
+PRINCE REGENT - DLR,DLR,3,0.035815177,51.50885626
+ROYAL ALBERT - DLR,DLR,3,0.047489859,51.50789742
+ROYAL VICTORIA - DLR,DLR,3,0.019349595,51.50871834
+WEST SILVERTOWN - DLR,DLR,3,0.023940282,51.50237959
+CANNING TOWN - DLR,DLR,3,0.009772469,51.51339633
+EAST INDIA - DLR,DLR,3,-0.000674542,51.50887121
+GREENWICH - DLR,DLR,3,-0.011836627,51.47760944
+PUDDING MILL LANE - DLR,DLR,3,-0.012349897,51.53368602
+WEST HAM - DLR,DLR,3,0.006640951,51.52774122
+STRATFORD - DLR,DLR,3,-0.001594174,51.54086921
+STAR LANE - DLR,DLR,3,0.005780604,51.52030887
+ABBEY ROAD - DLR,DLR,3,0.005308217,51.5318653
+STRATFORD HIGH STREET - DLR,DLR,3,0.000869889,51.53752645
+STRATFORD INTERNATIONAL - DLR,DLR,3,-0.007832275,51.54433906
+South Acton,London Overground,3,-0.268894276,51.49891951
+South Tottenham,London Overground,3,-0.070375895,51.58009969
+Stonebridge Park,London Overground,3,-0.273853212,51.54346498
+Walthamstow Queens Road,London Overground,3,-0.022254511,51.58097129
+Wanstead Park,London Overground,3,0.027694662,51.55118604
+Gunnersbury,London Overground,3,-0.274027392,51.49082016
+Stratford,London Overground,3,-0.002307264,51.54107928
+Hainault,London Underground,4,0.095143844,51.60313737
+Grange Hill,London Underground,4,0.093957755,51.61269646
+Colindale,London Underground,4,-0.248341905,51.59494713
+Burnt Oak,London Underground,4,-0.262398845,51.60233699
+Mill Hill East,London Underground,4,-0.208460194,51.60773582
+Finchley Central,London Underground,4,-0.190951925,51.60043321
+Sudbury Hill,London Underground,4,-0.335039246,51.55646384
+Sudbury Town,London Underground,4,-0.314159662,51.55030341
+Alperton,London Underground,4,-0.298361133,51.54022715
+Arnos Grove,London Underground,4,-0.131434823,51.61595478
+Southgate,London Underground,4,-0.126150933,51.6317626
+Perivale,London Underground,4,-0.32183979,51.53624702
+Greenford,London Underground,4,-0.34492109,51.54208841
+Snaresbrook,London Underground,4,0.023019902,51.58017276
+Leytonstone,London Underground,4,0.009807678,51.56781496
+Wanstead,London Underground,4,0.030247766,51.57509659
+Redbridge,London Underground,4,0.047039301,51.5757446
+Gants Hill,London Underground,4,0.067825538,51.57602949
+South Woodford,London Underground,4,0.028990141,51.59138934
+Newbury Park,London Underground,4,0.091554903,51.57519974
+Barkingside,London Underground,4,0.090259547,51.58519895
+Fairlop,London Underground,4,0.092688126,51.59505439
+Woodford,London Underground,4,0.035640856,51.60635963
+Roding Valley,London Underground,4,0.045340184,51.61657815
+Chigwell,London Underground,4,0.077229167,51.61715195
+East Ham,London Underground,4,0.054454908,51.5388975
+Upney,London Underground,4,0.103187503,51.53784406
+Barking,London Underground,4,0.081813552,51.53937511
+Morden,London Underground,4,-0.193160282,51.40201673
+Hounslow Central,London Underground,4,-0.364716069,51.470809
+Hounslow East,London Underground,4,-0.3547554,51.47275219
+Osterley,London Underground,4,-0.350640896,51.48073359
+Boston Manor,London Underground,4,-0.32401176,51.494711
+Wembley Central,London Underground,4,-0.295237517,51.55177912
+North Wembley,London Underground,4,-0.302293996,51.56189247
+Richmond,London Underground,4,-0.300084253,51.46260595
+Preston Road,London Underground,4,-0.293539223,51.57151381
+Wembley Park,London Underground,4,-0.278458638,51.56325938
+Kingsbury,London Underground,4,-0.277052309,51.58414203
+Queensbury,London Underground,4,-0.284629817,51.59369962
+South Kenton,London Underground,4,-0.306785037,51.56971265
+Kenton,London Underground,4,-0.315140189,51.58111281
+Woodside Park,London Underground,4,-0.183907004,51.61758971
+West Finchley,London Underground,4,-0.186738929,51.60898928
+Totteridge & Whetstone,London Underground,4,-0.177599794,51.63009248
+Northwick Park,London Underground,4,-0.316478653,51.57797585
+Norwood Junction,London Overground,4,-0.073428759,51.39678711
+Edmondton Green,London Overground,4,-0.059376907,51.62445425
+Highams Park,London Overground,4,0.00150512,51.607873
+Walthamstow Wood Street,London Overground,4,-0.000741221,51.58600285
+Silver Street,London Overground,4,-0.065526104,51.61440848
+Kenton,London Overground,4,-0.315564441,51.58134846
+North Wembley,London Overground,4,-0.302663046,51.56226767
+Manor Park,TfL Rail,4,0.047651015,51.55189321
+Ilford,TfL Rail,4,0.07080065,51.55848898
+Seven Kings,TfL Rail,4,0.098722803,51.5634541
+Goodmayes,TfL Rail,4,0.112414564,51.56500163
+Morden Road,Tramlink,4,-0.191339995,51.408346
+Phipps Bridge,Tramlink,4,-0.180769806,51.40292944
+Belgrave Walk,Tramlink,4,-0.176840028,51.40044481
+Mitcham,Tramlink,4,-0.16947597,51.39700089
+Mitcham Junction (Tramlink),Tramlink,4,-0.155733719,51.39213248
+Beddington Lane,Tramlink,4,-0.141260885,51.38891199
+Therapia Lane,Tramlink,4,-0.127515047,51.38515495
+Ampere Way,Tramlink,4,-0.122172554,51.3818536
+Arena,Tramlink,4,-0.056679487,51.39105665
+Elmers End (Tramlink),Tramlink,4,-0.047979561,51.39779044
+Harrington Road,Tramlink,4,-0.058885135,51.3991503
+Birkbeck (Tramlink),Tramlink,4,-0.054580141,51.40304289
+Avenue Road,Tramlink,4,-0.048118188,51.40615963
+Beckenham Road,Tramlink,4,-0.04159356,51.40909636
+Beckenham Junction (Tramlink),Tramlink,4,-0.024636241,51.41045194
+WOOLWICH ARSENAL - DLR,DLR,4,0.070492592,51.48946942
+Penge West,London Overground,4,-0.059203378,51.41696823
+Anerley,London Overground,4,-0.06410424,51.411617
+South Kenton,London Overground,4,-0.307068904,51.56990367
+Wembley Central,London Overground,4,-0.295206549,51.55214998
+Barking,London Overground,4,0.082703641,51.53890805
+Richmond,London Overground,4,-0.30015416,51.46271961
+Becontree,London Underground,5,0.128978641,51.53983401
+Dagenham Heathway,London Underground,5,0.149158377,51.54110645
+Buckhurst Hill,London Underground,5,0.048455336,51.62548342
+Edgware,London Underground,5,-0.273183711,51.61311251
+Cockfosters,London Underground,5,-0.147553187,51.65103526
+Oakwood,London Underground,5,-0.129657109,51.64683948
+Ruislip Gardens,London Underground,5,-0.409140537,51.56027575
+South Ruislip,London Underground,5,-0.39728854,51.55635983
+Northolt,London Underground,5,-0.367069735,51.54775741
+Hounslow West,London Underground,5,-0.384218262,51.47310845
+South Harrow,London Underground,5,-0.350509518,51.56404932
+Harrow & Wealdstone,London Underground,5,-0.333300136,51.59154651
+High Barnet,London Underground,5,-0.192561468,51.65002914
+Eastcote,London Underground,5,-0.39578946,51.57601384
+West Harrow,London Underground,5,-0.351706569,51.57906815
+Rayners Lane,London Underground,5,-0.369864752,51.57469667
+North Harrow,London Underground,5,-0.361021834,51.58444941
+Pinner,London Underground,5,-0.379580851,51.59232907
+Harrow-on-the-Hill,London Underground,5,-0.33516664,51.57891586
+Stanmore,London Underground,5,-0.30167142,51.61921632
+Canons Park,London Underground,5,-0.293102561,51.60721294
+Dagenham East,London Underground,5,0.167617456,51.54364955
+West Croydon,London Overground,5,-0.101229704,51.37780543
+Bush Hill Park,London Overground,5,-0.067751096,51.64092455
+Chingford,London Overground,5,0.011677573,51.63278212
+Enfield Town,London Overground,5,-0.077733958,51.65163779
+Southbury,London Overground,5,-0.049888718,51.64825562
+Headstone Lane,London Overground,5,-0.355651952,51.60209779
+Chadwell Heath,TfL Rail,5,0.130973337,51.56749975
+Waddon Marsh,Tramlink,5,-0.116278811,51.37647839
+Wandle Park,Tramlink,5,-0.111770014,51.37293871
+Reeves Corner,Tramlink,5,-0.104688108,51.37426316
+Centrale,Tramlink,5,-0.102295527,51.37525458
+West Croydon (Tramlink),Tramlink,5,-0.100095218,51.37841469
+Wellesley Road,Tramlink,5,-0.095978591,51.37499854
+Church Street,Tramlink,5,-0.102795537,51.37319514
+George Street,Tramlink,5,-0.097458992,51.37338118
+East Croydon (Tramlink),Tramlink,5,-0.09106147,51.37431604
+Lebanon Road,Tramlink,5,-0.08389645,51.37468254
+Sandilands,Tramlink,5,-0.07612476,51.37441486
+Lloyd Park,Tramlink,5,-0.079087981,51.36367068
+Coombe Lane,Tramlink,5,-0.058520648,51.35927821
+Addiscombe,Tramlink,5,-0.07162576,51.37934189
+Blackhorse Lane,Tramlink,5,-0.06870387,51.3844061
+Woodside,Tramlink,5,-0.063965962,51.38645328
+Harrow & Wealdstone,London Overground,5,-0.333631214,51.59176883
+Loughton,London Underground,6,0.056970973,51.6408144
+Debden,London Underground,6,0.085403181,51.64489405
+Theydon Bois,London Underground,6,0.104967288,51.67133739
+Epping,London Underground,6,0.115641374,51.69306818
+Elm Park,London Underground,6,0.200311564,51.54920911
+Hornchurch,London Underground,6,0.220754707,51.55353835
+Heathrow Terminals 1-2-3,London Underground,6,-0.450857772,51.47079421
+Upminster Bridge,London Underground,6,0.237476635,51.55798569
+West Ruislip,London Underground,6,-0.436073394,51.56913097
+Upminster,London Underground,6,0.252767235,51.55857711
+Hatton Cross,London Underground,6,-0.42189306,51.4661174
+Northwood,London Underground,6,-0.422358538,51.61052039
+Heathrow Terminal 5,London Underground,6,-0.486475608,51.47201647
+Heathrow Terminal 4,London Underground,6,-0.444145672,51.45802947
+Uxbridge,London Underground,6,-0.4760666,51.54596187
+Hillingdon,London Underground,6,-0.447812239,51.55344939
+Ickenham,London Underground,6,-0.440467266,51.56146986
+Ruislip,London Underground,6,-0.420215108,51.57079343
+Ruislip Manor,London Underground,6,-0.410235646,51.57297789
+Northwood Hills,London Underground,6,-0.407168137,51.59969703
+Emerson Park,London Overground,6,0.221721192,51.56818654
+Romford,London Overground,6,0.184863954,51.57454494
+Turkey Street,London Overground,6,-0.045735795,51.67186641
+Upminster,London Overground,6,0.25221358,51.55850315
+Hatch End,London Overground,6,-0.367177631,51.60890473
+Romford,TfL Rail,6,0.184308898,51.57421472
+Gidea Park,TfL Rail,6,0.2071101,51.58117713
+Harold Wood,TfL Rail,6,0.234666819,51.59219909
+Gravel Hill,Tramlink,6,-0.041304236,51.35401751
+Addington Village,Tramlink,6,-0.031284121,51.35570988
+New Addington,Tramlink,6,-0.015617483,51.34195708
+King Henry's Drive,Tramlink,6,-0.018665196,51.3448509
+Fieldway,Tramlink,6,-0.022640017,51.3504305
+Chorleywood,London Underground,7,-0.516985176,51.65380677
+Rickmansworth,London Underground,7,-0.472133393,51.63979883
+Moor Park,London Underground,7,-0.430710233,51.6293749
+Croxley,London Underground,7,-0.44019171,51.64658792
+Watford,London Underground,7,-0.415832512,51.65699167
+Theobalds Grove,London Overground,7,-0.033083485,51.69180047
+Carpenders Park,London Overground,7,-0.384142381,51.62780024
+Chalfont & Latimer,London Underground,8,-0.559159868,51.66754646
+Cheshunt,London Overground,8,-0.022373213,51.70246665
+Watford High Street,London Overground,8,-0.390612987,51.6519637
+Watford Junction,London Overground,8,-0.394615064,51.6634936
+Bushey,London Overground,8,-0.38369919,51.64433251
+Chesham,London Underground,9,-0.609421076,51.70474175
+Amersham,London Underground,9,-0.606146762,51.67366188
+Clapton,London Overground,0,-0.055484597,51.56103029
+Crystal Palace,London Overground,0,-0.071128264,51.41763277
+Brentwood,TfL Rail,0,0.301589064,51.61307149
+Shenfield,TfL Rail,0,0.331671253,51.6300009
+Woodgrange Park,London Overground,0,0.045631091,51.54871611
+Willesden Junction,London Overground,0,-0.242688895,51.5317515

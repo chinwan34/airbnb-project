@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WelcomePaneBuilder
+comment0.text=\r\n\ This\ class\ builds\ an\ instance\ of\ the\ pane\ used\ as\ a\ welcome\ screen\r\n
+comment1.params=width\ height
+comment1.target=WelcomePaneBuilder(int,\ int)
+comment2.params=
+comment2.target=void\ buildHelpWelcomePane()
+comment2.text=\r\n\ Build\ up\ the\ help\ pane\ of\ the\ welcome\ screen\r\n
+numComments=3
